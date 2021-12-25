@@ -1,0 +1,18 @@
+Q:
+Is it an animal
+Q:
+Does the animal have a full coat of fur?
+A:
+fox
+A:
+Pig
+Q:
+Is it an electronic?
+Q:
+Does the device connect to a mobile communication network?
+A:
+Phone
+A:
+Computer
+A:
+Rock
